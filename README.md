@@ -2,7 +2,7 @@
 
 
 ## Pemrograman ESP dengan Aruduino IDE
-1. Install Driver CH340
+1. Install Driver CH340 Link download : https://github.com/iswansoftware/Project_ESP/blob/main/software/CH341SER.EXE
 
 2. Menambahkan Board NodeMCU pada Arduino IDE
    - Buka software Arduino IDE, Buka jendela preferensi dengan cara klik Tab File - Preferences, pada Additional Board Manager URLs. Isi dengan url berikut :
