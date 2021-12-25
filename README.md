@@ -11,3 +11,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 kemudian klik Install.
 
 3. Test dengan example blink
+
+
+
+# Software test : https://github.com/iswansoftware/Project_ESP/blob/main/software/hercules_3-2-8.exe
