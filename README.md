@@ -13,5 +13,6 @@ kemudian klik Install.
 3. Test dengan example blink
 
 
+## List software
 
-# Software test : https://github.com/iswansoftware/Project_ESP/blob/main/software/hercules_3-2-8.exe
+Software test : https://github.com/iswansoftware/Project_ESP/blob/main/software/hercules_3-2-8.exe
